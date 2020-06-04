@@ -8,10 +8,10 @@ In this notebook we'll show you how to install SLEAP on Colab, download a datase
 
 This notebook can be a good place to start since you'll be able to see how training and inference work without any of your own data and without having to edit anything in the notebook to get it to run currectly.
 
-<a href="https://colab.research.google.com/github/ntabris/sleap-notebooks/blob/master/Training_and_inference_on_an_example_dataset.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/murthylab/sleap-notebooks/blob/master/Training_and_inference_on_an_example_dataset.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Using your own data on Google Drive
 
 Once you're ready to run training and inference on your own SLEAP dataset, this notebook walks you through the process of using [Google Drive](https://www.google.com/drive) to copy data to and from Colab (as well as running training and inference on your dataset).
 
-<a href="https://colab.research.google.com/github/ntabris/sleap-notebooks/blob/master/Training_and_inference_using_Google_Drive.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/murthylab/sleap-notebooks/blob/master/Training_and_inference_using_Google_Drive.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
