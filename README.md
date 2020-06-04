@@ -15,3 +15,9 @@ This notebook can be a good place to start since you'll be able to see how train
 Once you're ready to run training and inference on your own SLEAP dataset, this notebook walks you through the process of using [Google Drive](https://www.google.com/drive) to copy data to and from Colab (as well as running training and inference on your dataset).
 
 <a href="https://colab.research.google.com/github/murthylab/sleap-notebooks/blob/master/Training_and_inference_using_Google_Drive.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+## Training with custom hyperparameters
+
+After you're able to run training and inference on your own SLEAP dataset using Colab, you're ready to learn how to train with custom hyperparameters. This notebook will walk you through that process.
+
+<a href="https://colab.research.google.com/github/murthylab/sleap-notebooks/blob/master/Training_with_custom_hyperparameters.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
