@@ -21,3 +21,9 @@ Once you're ready to run training and inference on your own SLEAP dataset, this 
 After you're able to run training and inference on your own SLEAP dataset using Colab, you're ready to learn how to train with custom hyperparameters. This notebook will walk you through that process.
 
 <a href="https://colab.research.google.com/github/murthylab/sleap-notebooks/blob/master/Training_with_custom_hyperparameters.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+## Analysis examples
+
+Once you've used SLEAP to successfully estimate animal pose and track animals in your videos, you'll want to use the resulting data. This notebook walks you through some analysis examples which illustrate how to read and interpret the data in the [Analysis HDF5](https://sleap.ai/tutorials/analysis.html) files which you can export from SLEAP.
+
+<a href="https://colab.research.google.com/github/murthylab/sleap-notebooks/blob/master/Analysis_examples.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
